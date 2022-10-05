@@ -45,12 +45,8 @@ main h2 {
     background-color:lightgray;
 }
 
-.my-bio {
-    background-color: orange (128, 0, 0, 0.879);
-    color: black;
-}
+
 .jens-style {
-    background-color: orange;
     color: black;
-    padding: 3px;
+    background-color: orange;
 }
