@@ -50,6 +50,7 @@ main h2 {
     color: black;
 }
 .jens-style {
-    background-color: orange
+    background-color: orange;
     color: black;
+    padding: 3px;
 }
