@@ -46,6 +46,6 @@ main h2 {
 }
 
 .my-bio {
-    background-color: green;
-    color: white;
+    background-color: orange (128, 0, 0, 0.879);
+    color: black;
 }
