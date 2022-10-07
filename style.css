@@ -44,7 +44,11 @@ main h2 {
 .stans-styles {
     background-color:lightgray;
 }
-
+.jens-style {
+    color: purple
+    background-color: yellow
+    padding: 3px;
+}
 
 
 }
